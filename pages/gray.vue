@@ -47,7 +47,7 @@
             </p>
           </div>
         </div>
-        <img class="img-fluid" src="assets/img/ipad.png" alt="" />
+        <img class="img-fluid" src="/img/ipad.png" alt="" />
       </div>
     </section>
 
@@ -59,7 +59,7 @@
           <div class="col-xl-8 col-lg-7">
             <img
               class="img-fluid mb-3 mb-lg-0"
-              src="assets/img/bg-masthead.jpg"
+              src="/img/bg-masthead.jpg"
               alt=""
             />
           </div>
@@ -77,7 +77,7 @@
         <!-- Project One Row-->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="assets/img/demo-image-01.jpg" alt="" />
+            <img class="img-fluid" src="/img/demo-image-01.jpg" alt="" />
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -99,7 +99,7 @@
         <!-- Project Two Row-->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="" />
+            <img class="img-fluid" src="/img/demo-image-02.jpg" alt="" />
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -146,7 +146,7 @@
     </section>
 
     <!-- Contact-->
-    <section class="contact-section bg-black">
+    <section id="contact" class="contact-section bg-black">
       <div class="container">
         <div class="row">
           <div class="col-md-4 mb-3 mb-md-0">
