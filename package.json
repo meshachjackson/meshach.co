@@ -12,11 +12,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxt/content": "^1.11.1",
     "@nuxt/typescript-runtime": "^2.0.0",
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.6",

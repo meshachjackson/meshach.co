@@ -17,7 +17,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
+  plugins: ["@/plugins/scrollTo.js"],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -32,6 +32,8 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     "bootstrap-vue/nuxt",
+    "@nuxt/content",
+    "vue-scrollto/nuxt",
   ],
   bootstrapVue: {
     // Install the `IconsPlugin` plugin (in addition to `BootstrapVue` plugin)
