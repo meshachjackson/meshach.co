@@ -23,13 +23,7 @@
     <!-- <HomeSignup /> -->
 
     <!-- <HomeContact /> -->
-
-    <!-- Footer-->
-    <footer class="footer bg-black small text-center text-white-50">
-      <div class="container">
-        Copyright © (Me)shach Jackson 2021. All Rights Reserved.
-      </div>
-    </footer>
+    <HomeFooter />
   </main>
 </template>
 
